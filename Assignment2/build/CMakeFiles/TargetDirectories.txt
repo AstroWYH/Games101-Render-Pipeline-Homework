@@ -1,0 +1,3 @@
+/root/workspace/games101/games/games101/wangyuhang/Assignment2/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/games101/games/games101/wangyuhang/Assignment2/build/CMakeFiles/Rasterizer.dir
+/root/workspace/games101/games/games101/wangyuhang/Assignment2/build/CMakeFiles/edit_cache.dir
